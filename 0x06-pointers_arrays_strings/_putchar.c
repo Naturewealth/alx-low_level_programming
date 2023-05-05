@@ -2,8 +2,8 @@
 
 /**
  * _putchar - writes character c to stdout
- * @c:char to be printed
- * Return: On Succes 1
+ * @c: char to be printed
+ * Return: On Success 1
  */
 
 int _putchar(char c)
